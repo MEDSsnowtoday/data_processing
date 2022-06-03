@@ -8,9 +8,9 @@ The notebook [functions_for_means_and_anomalies](https://github.com/MEDSsnowtoda
 
 Required packages and python version:
 
-|            |            |                |
-| ---------- | -----------| ---------------|
-| python 3.8 |  gdal      |  numpy         | 
-| rasterio   |  rioxarray |  xarray.       |
+|            |            |            |
+| ---------- | -----------| -----------|
+| python 3.8 |  gdal      |  numpy     | 
+| rasterio   |  rioxarray |  xarray    |
 
 
