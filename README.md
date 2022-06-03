@@ -10,9 +10,7 @@ Required packages and python version:
 
 |            |            |                |
 | ---------- | -----------| ---------------|
-| python 3.8 |  gdal      |  h5py          | 
-| imageio    |  leafmap   |  matplotlib    |
-| numpy      |  pandas    |  plotly        |
-| rasterio   |  rioxarray |  wget          | 
-| netCDF4    |  xarray    |                |
+| python 3.8 |  gdal      |  numpy         | 
+| rasterio   |  rioxarray |  xarray.       |
+
 
